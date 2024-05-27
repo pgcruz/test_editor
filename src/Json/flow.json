@@ -1,0 +1,342 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "type": "input",
+      "data": {
+        "label": {
+          "type": "div",
+          "key": null,
+          "ref": null,
+          "props": {
+            "children": {
+              "type": "div",
+              "key": null,
+              "ref": null,
+              "props": {
+                "className": "w-[274px] h-[167px] bg-[#FBF8FD] rounded-lg shadow-lg",
+                "children": [
+                  {
+                    "type": "div",
+                    "key": null,
+                    "ref": null,
+                    "props": {
+                      "className": " bg-[#85E0A3] w-auto h-12 p-2 rounded-t-lg",
+                      "children": [
+                        "Inicio",
+                        {
+                          "type": { "type": {}, "compare": null },
+                          "key": null,
+                          "ref": null,
+                          "props": {
+                            "className": "text-24 relative left-[180px]"
+                          },
+                          "_owner": null,
+                          "_store": {}
+                        }
+                      ]
+                    },
+                    "_owner": null,
+                    "_store": {}
+                  },
+                  {
+                    "type": "div",
+                    "key": null,
+                    "ref": null,
+                    "props": {
+                      "className": "m-4 w-[248px] h-[52px] bg-[#EFEDF1] rounded-lg center text-xs p-2",
+                      "children": "    Mensaje desde json."
+                    },
+                    "_owner": null,
+                    "_store": {}
+                  },
+                  {
+                    "type": "div",
+                    "key": null,
+                    "ref": null,
+                    "props": {
+                      "children": [
+                        {
+                          "type": { "type": {}, "compare": null },
+                          "key": null,
+                          "ref": null,
+                          "props": {
+                            "className": "absolute bottom-3 right-4 text-[#001452] "
+                          },
+                          "_owner": null,
+                          "_store": {}
+                        },
+                        {
+                          "type": { "type": {}, "compare": null },
+                          "key": null,
+                          "ref": null,
+                          "props": {
+                            "className": "absolute bottom-3 right-20 text-[#001452] "
+                          },
+                          "_owner": null,
+                          "_store": {}
+                        }
+                      ]
+                    },
+                    "_owner": null,
+                    "_store": {}
+                  }
+                ]
+              },
+              "_owner": null,
+              "_store": {}
+            }
+          },
+          "_owner": null,
+          "_store": {}
+        }
+      },
+      "position": { "x": -224.80044367776182, "y": -192.93477536195059 },
+      "width": 274,
+      "height": 167,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -224.80044367776182,
+        "y": -192.93477536195059
+      },
+      "dragging": false
+    },
+    {
+      "id": "dndnode_1",
+      "type": "Archivo",
+      "position": { "x": 1010.1049253484996, "y": -194.65914574203717 },
+      "data": {
+        "label": {
+          "key": null,
+          "ref": null,
+          "props": {},
+          "_owner": null,
+          "_store": {}
+        }
+      },
+      "width": 274,
+      "height": 191,
+      "selected": false,
+      "positionAbsolute": { "x": 1010.1049253484996, "y": -194.65914574203717 },
+      "dragging": false
+    },
+    {
+      "id": "dndnode_2",
+      "type": "Mensaje",
+      "position": { "x": 117.04063911327182, "y": -136.08017249093314 },
+      "data": {
+        "label": {
+          "key": null,
+          "ref": null,
+          "props": {},
+          "_owner": null,
+          "_store": {}
+        }
+      },
+      "width": 274,
+      "height": 283,
+      "selected": false,
+      "positionAbsolute": { "x": 117.04063911327182, "y": -136.08017249093314 },
+      "dragging": false
+    },
+    {
+      "id": "dndnode_3",
+      "type": "Opciones",
+      "position": { "x": 477.44442096270745, "y": -111.65602650531355 },
+      "data": {
+        "label": {
+          "key": null,
+          "ref": null,
+          "props": {},
+          "_owner": null,
+          "_store": {}
+        }
+      },
+      "width": 274,
+      "height": 596,
+      "selected": false,
+      "positionAbsolute": { "x": 477.44442096270745, "y": -111.65602650531355 },
+      "dragging": false
+    },
+    {
+      "id": "dndnode_4",
+      "type": "Imagen",
+      "position": { "x": 1125.2846778537676, "y": 182.04289829017392 },
+      "data": {
+        "label": {
+          "key": null,
+          "ref": null,
+          "props": {},
+          "_owner": null,
+          "_store": {}
+        }
+      },
+      "width": 274,
+      "height": 64,
+      "selected": true,
+      "positionAbsolute": { "x": 1125.2846778537676, "y": 182.04289829017392 },
+      "dragging": false
+    },
+    {
+      "id": "dndnode_5",
+      "type": "Pausa",
+      "position": { "x": 907.979349296428, "y": 361.3005951513396 },
+      "data": {
+        "label": {
+          "key": null,
+          "ref": null,
+          "props": {},
+          "_owner": null,
+          "_store": {}
+        }
+      },
+      "width": 274,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": { "x": 907.979349296428, "y": 361.3005951513396 },
+      "dragging": false
+    },
+    {
+      "id": "dndnode_6",
+      "type": "Mensaje",
+      "position": { "x": 1685.6907267051815, "y": -286.62658449707686 },
+      "data": {
+        "label": {
+          "key": null,
+          "ref": null,
+          "props": {},
+          "_owner": null,
+          "_store": {}
+        }
+      },
+      "width": 274,
+      "height": 283,
+      "selected": false,
+      "positionAbsolute": { "x": 1685.6907267051815, "y": -286.62658449707686 },
+      "dragging": false
+    },
+    {
+      "id": "dndnode_7",
+      "type": "Nota",
+      "position": { "x": 225.462450196995, "y": 241.9924197119064 },
+      "data": {
+        "label": {
+          "key": null,
+          "ref": null,
+          "props": {},
+          "_owner": null,
+          "_store": {}
+        }
+      },
+      "width": 138,
+      "height": 140,
+      "selected": false,
+      "positionAbsolute": { "x": 225.462450196995, "y": 241.9924197119064 },
+      "dragging": false
+    },
+    {
+      "id": "dndnode_8",
+      "type": "Nota",
+      "position": { "x": 857.1918429893092, "y": 56.60907645456825 },
+      "data": {
+        "label": {
+          "key": null,
+          "ref": null,
+          "props": {},
+          "_owner": null,
+          "_store": {}
+        }
+      },
+      "width": 138,
+      "height": 140,
+      "selected": false,
+      "positionAbsolute": { "x": 857.1918429893092, "y": 56.60907645456825 },
+      "dragging": false
+    },
+    {
+      "id": "dndnode_9",
+      "type": "Boton",
+      "position": { "x": 1347.7446897625734, "y": 301.8854998412003 },
+      "data": {
+        "label": {
+          "key": null,
+          "ref": null,
+          "props": {},
+          "_owner": null,
+          "_store": {}
+        }
+      },
+      "width": 274,
+      "height": 64,
+      "selected": false,
+      "positionAbsolute": { "x": 1347.7446897625734, "y": 301.8854998412003 },
+      "dragging": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "1",
+      "sourceHandle": null,
+      "target": "dndnode_2",
+      "targetHandle": null,
+      "type": "step",
+      "id": "reactflow__edge-1-dndnode_2"
+    },
+    {
+      "source": "dndnode_2",
+      "sourceHandle": null,
+      "target": "dndnode_3",
+      "targetHandle": null,
+      "type": "step",
+      "id": "reactflow__edge-dndnode_2-dndnode_3"
+    },
+    {
+      "source": "dndnode_3",
+      "sourceHandle": "output-1",
+      "target": "dndnode_1",
+      "targetHandle": null,
+      "type": "step",
+      "id": "reactflow__edge-dndnode_3output-1-dndnode_1"
+    },
+    {
+      "source": "dndnode_3",
+      "sourceHandle": "output-2",
+      "target": "dndnode_4",
+      "targetHandle": null,
+      "type": "step",
+      "id": "reactflow__edge-dndnode_3output-2-dndnode_4"
+    },
+    {
+      "source": "dndnode_3",
+      "sourceHandle": "output-3",
+      "target": "dndnode_5",
+      "targetHandle": null,
+      "type": "step",
+      "id": "reactflow__edge-dndnode_3output-3-dndnode_5"
+    },
+    {
+      "source": "dndnode_5",
+      "sourceHandle": null,
+      "target": "dndnode_6",
+      "targetHandle": null,
+      "type": "step",
+      "id": "reactflow__edge-dndnode_5-dndnode_6"
+    },
+    {
+      "source": "dndnode_3",
+      "sourceHandle": "output-4",
+      "target": "dndnode_9",
+      "targetHandle": null,
+      "type": "step",
+      "id": "reactflow__edge-dndnode_3output-4-dndnode_9"
+    },
+    {
+      "source": "dndnode_3",
+      "sourceHandle": "output-5",
+      "target": "dndnode_6",
+      "targetHandle": null,
+      "type": "step",
+      "id": "reactflow__edge-dndnode_3output-5-dndnode_6"
+    }
+  ]
+}
